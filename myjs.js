@@ -1,2 +1,2 @@
-alert('hello,kasuga!')
+alert('hello,kasuga!');
 
